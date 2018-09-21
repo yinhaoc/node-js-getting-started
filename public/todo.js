@@ -1,5 +1,4 @@
 $(document).ready(function(e) {
-page();
 $('#add-todo').button({icons:{primary:"ui-icon-circle-plus"}});
 $('#new-todo').dialog({modal :true, autoOpen : false});
 $('#delete-confirm').dialog({modal :true, autoOpen : false});
